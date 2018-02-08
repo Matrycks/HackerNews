@@ -1,0 +1,9 @@
+C:\Users\Tryck\source\repos\HackerNews\HackerNews.Framework\bin\Debug\netstandard2.0\HackerNews.Framework.deps.json
+C:\Users\Tryck\source\repos\HackerNews\HackerNews.Framework\bin\Debug\netstandard2.0\HackerNews.Framework.dll
+C:\Users\Tryck\source\repos\HackerNews\HackerNews.Framework\bin\Debug\netstandard2.0\HackerNews.Framework.pdb
+C:\Users\Tryck\source\repos\HackerNews\HackerNews.Framework\obj\Debug\netstandard2.0\HackerNews.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Tryck\source\repos\HackerNews\HackerNews.Framework\obj\Debug\netstandard2.0\HackerNews.Framework.AssemblyInfoInputs.cache
+C:\Users\Tryck\source\repos\HackerNews\HackerNews.Framework\obj\Debug\netstandard2.0\HackerNews.Framework.AssemblyInfo.cs
+C:\Users\Tryck\source\repos\HackerNews\HackerNews.Framework\obj\Debug\netstandard2.0\HackerNews.Framework.dll
+C:\Users\Tryck\source\repos\HackerNews\HackerNews.Framework\obj\Debug\netstandard2.0\HackerNews.Framework.pdb
+C:\Users\Tryck\source\repos\HackerNews\HackerNews.Framework\obj\Debug\netstandard2.0\HackerNews.Framework.csprojResolveAssemblyReference.cache
